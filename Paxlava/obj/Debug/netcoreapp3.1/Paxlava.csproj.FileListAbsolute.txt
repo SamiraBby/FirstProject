@@ -1,0 +1,14 @@
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\bin\Debug\netcoreapp3.1\Paxlava.exe
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\bin\Debug\netcoreapp3.1\Paxlava.deps.json
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\bin\Debug\netcoreapp3.1\Paxlava.runtimeconfig.json
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\bin\Debug\netcoreapp3.1\Paxlava.runtimeconfig.dev.json
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\bin\Debug\netcoreapp3.1\Paxlava.dll
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\bin\Debug\netcoreapp3.1\Paxlava.pdb
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\obj\Debug\netcoreapp3.1\Paxlava.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\obj\Debug\netcoreapp3.1\Paxlava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\obj\Debug\netcoreapp3.1\Paxlava.AssemblyInfoInputs.cache
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\obj\Debug\netcoreapp3.1\Paxlava.AssemblyInfo.cs
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\obj\Debug\netcoreapp3.1\Paxlava.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\obj\Debug\netcoreapp3.1\Paxlava.dll
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\obj\Debug\netcoreapp3.1\Paxlava.pdb
+C:\Users\Notebook\Desktop\c#projects\paxlava\Paxlava\Paxlava\obj\Debug\netcoreapp3.1\Paxlava.genruntimeconfig.cache
